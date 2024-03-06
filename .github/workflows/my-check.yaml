@@ -1,4 +1,4 @@
-name: tests and linter status
+name: my-check status
 
 on: push
 
